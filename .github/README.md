@@ -13,7 +13,6 @@
   - Where things live
     - `source/` holds the pages, styles, scripts, and starter content.
     - `documentation/` holds reference notes.
-    - `reviews/` holds dated code reviews.
   - Good to know
     - This is a beta, so treat it as a place to learn rather than a production tool.
     - The Playground only explores the API, and it cannot change a real Alibre model.
