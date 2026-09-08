@@ -7,7 +7,7 @@
     - Runs in the browser, so there is nothing to install.
     - Includes a quick reference and starter content to get you going.
   - Getting started
-    - Open the hosted Playground at <https://github.com/AlibreDesignCommunityProjects/AlibreScript-playground/source>.
+    - Open the hosted Playground at <https://alibredesigncommunityprojects.github.io/AlibreScript-playground/source/>.
     - Start typing in the editor and use the quick reference when you need it.
     - To run it yourself, open `source/index.html` in a browser.
   - Where things live
